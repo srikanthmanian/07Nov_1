@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.wavemaker.project</groupId>
-    <artifactId>project-07Nov_1</artifactId>
+    <artifactId>07Nov_1</artifactId>
     <version>1.0</version>
     <packaging>war</packaging>
     <properties>
@@ -133,6 +133,12 @@
             <groupId>com.wavemaker.studio</groupId>
             <artifactId>wavemaker-runtime</artifactId>
             <version>${wavemaker.studio.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>javax.servlet</groupId>
+            <artifactId>servlet-api</artifactId>
+            <version>2.5</version>
+            <scope>compile</scope>
         </dependency>
     </dependencies>
     <dependencyManagement>
