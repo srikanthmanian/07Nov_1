@@ -1,3 +1,4 @@
+
 {
 	"staticVariable1": {
 		"type": "string",
@@ -11,8 +12,7 @@
 		},
 		"saveInPhonegap": false,
 		"category": "wm.Variable",
-		"_id": "wm-wm.Variable1417069353788"
+		"_id": "wm-wm.Variable1417069353788",
+		"greeting": "Hello"
 	}
-	}
-
 }
