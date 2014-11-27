@@ -1,0 +1,16 @@
+{
+	"staticVariable1": {
+		"type": "string",
+		"isList": false,
+		"owner": "Page",
+		"dataSet": {
+			"dataValue": "abc"
+		},
+		"dataBinding": {
+			"dataValue": ""
+		},
+		"saveInPhonegap": false,
+		"category": "wm.Variable",
+		"_id": "wm-wm.Variable1417069353788"
+	}
+}
